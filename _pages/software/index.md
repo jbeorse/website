@@ -49,6 +49,12 @@ Read more about [the ODK 2 Suite](/software/odk2/):
 - [**ODK Cloud Endpoints:**](https://docs.opendatakit.org/odk2/cloud-endpoints-intro/) A cloud server to host data and application files, and to support bi-directional data synchronization across disconnected mobile devices.
 - [**ODK Suitcase:**](https://docs.opendatakit.org/odk2/suitcase-intro/) A desktop tool for synchronizing data with a cloud endpoint.
 
+**Source code for all ODK 2 Suite products is available on GitHub:**
+
+- Mobile Tools and Libraries: [Survey](https://github.com/opendatakit/survey), [Tables](https://github.com/opendatakit/tables), [Services](https://github.com/opendatakit/services), [androidlibrary](https://github.com/opendatakit/androidlibrary), [androidcommon](https://github.com/opendatakit/androidcommon)
+- Desktop Tools and Libraries: [Application Designer](https://github.com/opendatakit/app-designer), [Suitcase](https://github.com/opendatakit/suitcase), [Sync Client](https://github.com/opendatakit/sync-client)
+- Server Tools and Configuration: [Sync Endpoint](https://github.com/opendatakit/sync-endpoint), [Sync Endpoint Containers](https://github.com/opendatakit/sync-endpoint-containers), [Sync Endpoint Web UI](https://github.com/opendatakit/sync-endpoint-web-ui), [Sync Endpoint Default Setup](https://github.com/opendatakit/sync-endpoint-default-setup)
+
 ## Other Helpful Links
 
 * [The ODK Forum:](https://forum.opendatakit.org) Home of the ODK community. Please search first.
